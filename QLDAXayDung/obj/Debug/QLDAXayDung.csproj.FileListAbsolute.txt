@@ -1,0 +1,466 @@
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\bin\Debug\QLDAXayDung.exe.config
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\bin\Debug\QLDAXayDung.exe
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\bin\Debug\QLDAXayDung.pdb
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.AssemblyReference.cache
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.Properties.Resources.resources
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.GenerateResource.cache
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CoreCompileInputs.cache
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.exe
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.pdb
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fLogin.resources
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fTableManager.resources
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fChiTietDA.resources
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyNhanSu.resources
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiLieu.resources
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fAddDA.resources
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLiNganSach.resources
+D:\TTSCN\winforms c#\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaDA.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.AssemblyReference.cache
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fAddDA.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fAddNS.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTL.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fChiTietDA.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fLogin.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLiNganSach.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyNhanSu.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiLieu.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaDA.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaNS.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTL.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fTableManager.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.GenerateResource.cache
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.exe
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.pdb
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\bin\Debug\QLDAXayDung.exe.config
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\bin\Debug\QLDAXayDung.exe
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\bin\Debug\QLDAXayDung.pdb
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.Properties.Resources.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CoreCompileInputs.cache
+D:\TTSCN\QLDAXayDung\QLDAXayDung\bin\Debug\QLDAXayDung.exe.config
+D:\TTSCN\QLDAXayDung\QLDAXayDung\bin\Debug\QLDAXayDung.exe
+D:\TTSCN\QLDAXayDung\QLDAXayDung\bin\Debug\QLDAXayDung.pdb
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.AssemblyReference.cache
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fAddDA.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fAddNS.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTL.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fChiTietDA.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fLogin.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLiNganSach.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyNhanSu.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiLieu.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaDA.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaNS.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTL.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fTableManager.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.Properties.Resources.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.GenerateResource.cache
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CoreCompileInputs.cache
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.exe
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.pdb
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fChiPhi.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fDoanhThu.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.fLienhe.resources
+D:\TTSCN\QLDAXayDung\QLDAXayDung\obj\Debug\QLDAXayDung.Login2.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe.config
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\bin\Debug\QLDAXayDung.pdb
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.AssemblyReference.cache
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddDA.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddNS.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTL.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDangky.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiPhi.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiTietDA.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fNguonTaiTro.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLienhe.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLogin.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLiNganSach.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyNguoiDung.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyNhanSu.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiLieu.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaDA.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaNS.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTL.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaUser.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fTableManager.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.Properties.Resources.resources
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.GenerateResource.cache
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CoreCompileInputs.cache
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.exe
+C:\Users\HUONG GIANG\Documents\Zalo Received Files\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.pdb
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe.config
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\bin\Debug\QLDAXayDung.pdb
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.AssemblyReference.cache
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddChiPhi.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddDA.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddNS.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTaiTro.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTL.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDangky.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiPhi.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiTietDA.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDoiMK.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fNguonTaiTro.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLienhe.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLogin.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLiNganSach.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyNhanSu.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiKhoan.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiLieu.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuenMK.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaChiPhi.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaDA.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaNS.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTaiTro.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTL.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTK.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fTableManager.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.Properties.Resources.resources
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.GenerateResource.cache
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CoreCompileInputs.cache
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.exe
+C:\Users\Computer\OneDrive\Máy tính\QLDAXayDung (1)\QLDAXayDung\obj\Debug\QLDAXayDung.pdb
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe.config
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.pdb
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddChiPhi.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddDA.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddNS.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTaiTro.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTL.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDangky.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiPhi.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiTietDA.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDoiMK.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fNguonTaiTro.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLienhe.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLogin.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLiNganSach.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyNhanSu.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiKhoan.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiLieu.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuenMK.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaChiPhi.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaDA.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaNS.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTaiTro.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTL.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTK.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fTableManager.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.exe
+C:\Users\Lenovo\Documents\Zalo Received Files\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.pdb
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe.config
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.pdb
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.AssemblyReference.cache
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddChiPhi.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddDA.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddNS.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTaiTro.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTL.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDangky.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiPhi.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiTietDA.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDoiMK.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fNguonTaiTro.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLienhe.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLogin.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLiNganSach.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyNhanSu.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiKhoan.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiLieu.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuenMK.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaChiPhi.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaDA.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaNS.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTaiTro.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTL.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTK.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fTableManager.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.Properties.Resources.resources
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.GenerateResource.cache
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CoreCompileInputs.cache
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.exe
+E:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.pdb
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe.config
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.pdb
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.AssemblyReference.cache
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddChiPhi.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddDA.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddNS.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTaiTro.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTL.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDangky.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiPhi.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiTietDA.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDoiMK.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fNguonTaiTro.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLienhe.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLogin.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLiNganSach.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyNhanSu.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiKhoan.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiLieu.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuenMK.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaChiPhi.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaDA.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaNS.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTaiTro.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTL.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTK.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fTableManager.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.Properties.Resources.resources
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.GenerateResource.cache
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CoreCompileInputs.cache
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.exe
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.pdb
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\EPPlus.dll
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\EPPlus.Interfaces.dll
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\EPPlus.System.Drawing.dll
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\System.ComponentModel.Annotations.dll
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\EPPlus.xml
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CopyComplete
+E:\HN_University_Of_Industry\Nam_III_ki_1\Thực tập cơ sở ngành\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fEmployee.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe.config
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.pdb
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\EPPlus.dll
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\EPPlus.Interfaces.dll
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\EPPlus.System.Drawing.dll
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\EPPlus.xml
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.AssemblyReference.cache
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddChiPhi.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddDA.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddNS.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTaiTro.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTL.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fCustomer.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDangky.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiPhi.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiTietDA.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDoiMK.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fEmployee.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fNguonTaiTro.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLienhe.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLogin.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLiNganSach.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyNhanSu.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiKhoan.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiLieu.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuenMK.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaChiPhi.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaDA.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaNS.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTaiTro.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTL.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTK.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fTableManager.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.Properties.Resources.resources
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.GenerateResource.cache
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CoreCompileInputs.cache
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CopyComplete
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.exe
+D:\ttcsn\QLDAXayDung (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.pdb
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe.config
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.pdb
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\EPPlus.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\EPPlus.Interfaces.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\EPPlus.System.Drawing.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\EPPlus.xml
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.AssemblyReference.cache
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddChiPhi.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddDA.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddNS.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTaiTro.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTL.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDangky.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiPhi.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiTietDA.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDoiMK.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fEmployee.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fNguonTaiTro.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLienhe.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLogin.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLiNganSach.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyNhanSu.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiKhoan.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiLieu.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuenMK.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaChiPhi.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaDA.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaNS.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTaiTro.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTL.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTK.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fTableManager.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.Properties.Resources.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.GenerateResource.cache
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CoreCompileInputs.cache
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CopyComplete
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.exe
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.pdb
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\EnvDTE.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\stdole.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.ExportFile.resources
+D:\ttcsn\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDoi_mk_khi_lay_mk.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe.config
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.exe
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\QLDAXayDung.pdb
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\EPPlus.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\EPPlus.Interfaces.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\EPPlus.System.Drawing.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\System.ComponentModel.Annotations.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\EnvDTE.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\stdole.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\EPPlus.xml
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.AssemblyReference.cache
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDoi_mk_khi_lay_mk.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.ExportFile.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddChiPhi.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddDA.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddNS.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTaiTro.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fAddTL.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDangky.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiPhi.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fChiTietDA.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fDoiMK.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fEmployee.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fNguonTaiTro.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLienhe.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fLogin.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLiNganSach.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyNhanSu.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiKhoan.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuanLyTaiLieu.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fQuenMK.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaChiPhi.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaDA.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaNS.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTaiTro.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTL.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fSuaTK.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.fTableManager.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.Properties.Resources.resources
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.GenerateResource.cache
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CoreCompileInputs.cache
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.csproj.CopyComplete
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.exe
+E:\QLDAXayDung (1) (1) (1)\QLDAXayDung\obj\Debug\QLDAXayDung.pdb
